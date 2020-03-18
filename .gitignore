@@ -47,3 +47,6 @@ wheels/
 
 # virtualenv
 mydetect/
+
+# CUDA files
+*.deb
