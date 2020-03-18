@@ -44,3 +44,6 @@ wheels/
 /datasets
 /projects/*/datasets
 /models
+
+# virtualenv
+mydetect/
